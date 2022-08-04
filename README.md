@@ -1,2 +1,1 @@
-test
-teste 2
+teste
