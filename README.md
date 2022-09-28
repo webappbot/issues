@@ -1,1 +1,1 @@
-okokokok
+tá bom
