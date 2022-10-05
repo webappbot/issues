@@ -1,1 +1,1 @@
-Bounty
+Funding
